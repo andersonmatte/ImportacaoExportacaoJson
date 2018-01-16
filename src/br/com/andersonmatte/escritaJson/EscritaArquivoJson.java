@@ -1,11 +1,11 @@
-package br.com.andersonmatte.EscritaJson;
+package br.com.andersonmatte.escritaJson;
 
 import java.io.FileWriter;
 import java.io.IOException;
 
 import org.json.simple.JSONObject;
 
-import br.com.andersonmatte.Entidade.TimeFutebol;
+import br.com.andersonmatte.entidade.TimeFutebol;
 
 /**
  * @author Anderson Matte 

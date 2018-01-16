@@ -1,4 +1,4 @@
-package br.com.andersonmatte.Entidade;
+package br.com.andersonmatte.entidade;
 
 /**
  * @author Anderson Matte 
