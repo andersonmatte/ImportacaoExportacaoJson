@@ -17,7 +17,7 @@ Após a configuração do jar e download do projeto, será possivel criar um arq
 
 ![alt text](/imagens/caminhoJson.png "Caminho Arquivo JSON")
 
-Já para importação do arquivo JSON "timesGauchao2017.json" será feita a transformação para uma classe java e jogado em uma lista da Entidade TimeFutebol.java, essa sída de console mostra o resultado da importação:
+Já para importação do arquivo JSON "timesGauchao2017.json" será feita a transformação para uma classe java e jogado em uma lista da Entidade TimeFutebol.java, essa é a saída do console que mostra o resultado da importação:
 
 
 ![alt text](/imagens/LeituraArquivo.png "Leitura Arquivo JSON")
