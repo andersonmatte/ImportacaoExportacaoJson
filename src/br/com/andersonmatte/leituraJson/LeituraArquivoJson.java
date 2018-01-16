@@ -37,7 +37,7 @@ public class LeituraArquivoJson {
 		TimeFutebol timeParaParser = new TimeFutebol();
 		
 		try {
-			listaJSONObject = (List<JSONObject>) parser.parse(new FileReader("timesGauchao2017.jason"));
+			listaJSONObject = (List<JSONObject>) parser.parse(new FileReader("timesGauchao2017.json"));
 			for (JSONObject jsonObject : listaJSONObject) {
 				if (jsonObject != null) {
 					timeParaParser.setNomeEquipe(jsonObject.get("nomeEquipe") != null ? jsonObject.get("nomeEquipe").toString() : null);
